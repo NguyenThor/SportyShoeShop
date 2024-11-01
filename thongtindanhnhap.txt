@@ -1,0 +1,8 @@
+thông tin đăng nhập
+
+- Khách hàng:
+	Email: nguyen123
+	Mật khẩu: 123
+- Admin:
+	Email: admin
+	Mật khẩu: 123
